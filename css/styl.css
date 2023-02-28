@@ -45,7 +45,7 @@ body {
 /*////////////////section 1///////////////////////////////  */
 .part1 {
   position: relative;
-  background-image: url(img/banniere.svg);
+  background-image: url(../img/banniere.svg);
   height: 500px;
   border-radius: 15px;
   background-position: center;
